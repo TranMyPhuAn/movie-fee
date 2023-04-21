@@ -1,0 +1,3 @@
+export const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJOb2RlanMgMjkiLCJIZXRIYW5TdHJpbmciOiIxOS8wOS8yMDIzIiwiSGV0SGFuVGltZSI6IjE2OTUwODE2MDAwMDAiLCJuYmYiOjE2Nzc2MDM2MDAsImV4cCI6MTY5NTIyOTIwMH0.ZLLpdVZKDiSaVmcqW8ABNFiLYlwLSlO9t0GVSWuFka4'
+export const maNhom = 'GP06'
+export const quanTri = 'QuanTri'
